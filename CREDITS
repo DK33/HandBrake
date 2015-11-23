@@ -17,6 +17,7 @@ libdvdread
 libiconv
 libogg
 libsamplerate
+libspeex
 libtheora
 libvorbis
 libxml2
